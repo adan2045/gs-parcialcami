@@ -1,3 +1,3 @@
 <?php
-echo "Nombre:Camla";
- 
+echo "Nombre:Camla"
+echo "Apellido: Peralta"
