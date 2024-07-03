@@ -1,2 +1,2 @@
 <?php
-echo en proyectos estables
+echo 'en proyectos estables'
